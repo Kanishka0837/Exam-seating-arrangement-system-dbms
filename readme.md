@@ -49,7 +49,7 @@ Example:
 - Ensures consistency in data
 - Automatically aligns students with correct exams
 
-## ▶️ How to Run
+## How to Run
 
 1. Install dependencies:
    pip install mysql-connector-python reportlab
